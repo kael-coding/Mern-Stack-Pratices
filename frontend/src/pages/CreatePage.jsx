@@ -20,7 +20,7 @@ const CreatePage = () => {
                 title: "Failed to create product.",
                 description: message,
                 status: "error",
-                duration: 9000,
+                duration: 5000,
                 isClosable: true,
             })
         } else {
@@ -28,7 +28,7 @@ const CreatePage = () => {
                 title: "Product Created.",
                 description: message,
                 status: "success",
-                duration: 9000,
+                duration: 5000,
                 isClosable: true,
             })
             setNewProduct({
