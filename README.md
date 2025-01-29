@@ -33,7 +33,7 @@ Follow these simple steps to get the project up and running on your local machin
    
    ```bash
    git clone https://github.com/kael-coding/Mern-Stack-Pratices.git
-   cd product-crud-app
+   cd Mern-Stack-Pratices
    
 4. **Install Backend Dependencies**
    Navigate to the back-end folder (usually backend or server), and install the required Node.js dependencies for the server:
