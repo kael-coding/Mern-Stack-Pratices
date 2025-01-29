@@ -32,7 +32,7 @@ Follow these simple steps to get the project up and running on your local machin
    Clone the repository to your local machine. Open your terminal/command prompt and run the following command:
    
    ```bash
-   git clone https://github.com/kael-coding/product-crud-app.git
+   git clone https://github.com/kael-coding/Mern-Stack-Pratices.git
    cd product-crud-app
    
 4. **Install Backend Dependencies**
