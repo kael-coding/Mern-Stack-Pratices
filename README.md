@@ -10,7 +10,7 @@ This project is a hands-on practice application built using the **MERN stack** (
 - [x] **Delete Products**: Remove products from the system when they are no longer needed.
 - [x] **RESTful API**: Back-end logic built using Express.js to handle CRUD operations for the products.
 - [x] **MongoDB Database**: Store and manage product data in MongoDB, allowing easy retrieval, updates, and deletions.
-- [ ] **React Front-End**: Interactive, dynamic user interface for seamless interaction with the back-end.
+- [x] **React Front-End**: Interactive, dynamic user interface for seamless interaction with the back-end.
 
 ## Tech Stack:
 - **MongoDB**: NoSQL database to store product data.
