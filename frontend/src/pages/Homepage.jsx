@@ -37,7 +37,7 @@ const Homepage = () => {
                             fontFamily='heading'
                             fontWeight='bold'
                             textAlign='center'>
-                            No product found {" "}
+                            No product found!! {" "}
                             <Link to={'/create'}>
                                 <Text as='span' color="blue.500" _hover={{ textDecoration: "underline" }}>
                                     Create Product

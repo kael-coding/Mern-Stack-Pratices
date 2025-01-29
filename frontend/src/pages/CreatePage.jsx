@@ -17,7 +17,7 @@ const CreatePage = () => {
 
         if (!success) {
             toast({
-                title: "Failed to create product.",
+                title: "Error",
                 description: message,
                 status: "error",
                 duration: 5000,
@@ -36,6 +36,7 @@ const CreatePage = () => {
                 price: '',
                 image: ''
             })
+            window.location.href = '/';
         }
     }
     return (
